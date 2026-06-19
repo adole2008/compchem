@@ -1,1 +1,1 @@
-hello
+- Used ORCA instead of terachem cuz ion own a PC with a gpu n stuff
