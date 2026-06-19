@@ -1,0 +1,8 @@
+Read through the output file of your calculation and look for the optimized strcuture
+
+1. What is the energy of the optimized structure?
+ -76.41 Eh
+
+1. What are the O-H bond length and H-O-H angle?
+O-H bond length: 0.969 angstrom = $9.69 * 10^{-11}$ m
+103.9 = H-O-H bond angle
